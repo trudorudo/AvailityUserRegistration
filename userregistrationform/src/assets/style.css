@@ -1,0 +1,21 @@
+label {
+    display:block;
+    position:relative;
+    padding-left: 60px;
+    margin-top: 8px;
+    }
+input {
+    margin-left: 5px;
+    width: 200px;
+}
+form {
+    border: 5px solid grey;
+    width: 320px;
+    height: 350px;
+    padding: 20px;
+}
+.submitBtn {
+    float: right;
+    margin-top: 20px;
+    width: 120px;
+}
